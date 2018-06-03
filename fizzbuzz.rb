@@ -3,4 +3,5 @@ def fizzbuzz(n)
   buzz = n % 5 == 0 ? "Buzz" : ""
   if fizz or buzz
     fizz + buzz
+  end
 end
